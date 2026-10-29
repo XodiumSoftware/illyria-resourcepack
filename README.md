@@ -1,1 +1,0 @@
-# illyria-resourcepack
