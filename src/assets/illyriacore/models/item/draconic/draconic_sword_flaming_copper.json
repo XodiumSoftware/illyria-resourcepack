@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/netherite_sword",
+  "textures": {
+    "layer0": "illyriacore:item/draconic/draconic_sword",
+    "layer1": "illyriacore:item/effect/sword/copper_flames"
+  }
+}
