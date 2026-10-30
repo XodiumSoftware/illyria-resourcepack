@@ -1,0 +1,9 @@
+Place custom item textures in this directory using the same folder structure as the models.
+
+Example paths:
+- assets/illyriacore/textures/item/mithril/mithril.png
+- assets/illyriacore/textures/item/mithril/mithril_sword.png
+- assets/illyriacore/textures/item/adamantite/adamantite_pickaxe.png
+- assets/illyriacore/textures/item/draconic/draconic_helmet.png
+
+Each texture should match the corresponding model JSON in assets/illyriacore/models/item/.
